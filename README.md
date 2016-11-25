@@ -1,1 +1,1 @@
-# SlackML
+# SlackSMACK
